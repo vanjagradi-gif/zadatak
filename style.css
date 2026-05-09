@@ -19,3 +19,10 @@ body {
     min-height: 100vh;
     margin: 0;
 }
+label {
+    displey: block;
+    margin-bottom: 8px;
+    color: 
+        front-weight: 500;
+}
+    
