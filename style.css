@@ -23,7 +23,7 @@ body {
     padding: 40px;
     flex:1;
 }
-.heder {
+.form-section {
     displey: flex;
     justify-content: space-between;
     align-items: center;
